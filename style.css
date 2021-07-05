@@ -1,3 +1,15 @@
 body {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1-myname {
+    color: rgb(248, 106, 90);
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.flexible {
+    display: flex;
 }
