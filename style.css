@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 .h1-myname {
@@ -17,7 +18,8 @@ h1 {
 
 .half-width {
     width: 50%;
-    padding-right: 2%;
+    padding-right: 3%;
+    padding-top: 1%;
 }
 
 .half-width img {
@@ -31,4 +33,25 @@ h1 {
     border-radius: 5em;
     color: white;
     font-weight: 600;
+}
+
+.top-banner {
+    background-image: url(Image/top-banner-right.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.dream-big {
+    background-image: url(Image/dream-bg-left.png);
+    background-repeat: no-repeat;
+    background-position: 10 left;
+}
+
+.half {
+    width: 50%;
+    padding-left: 7%;
+}
+
+.half img {
+    width: 90%;
 }
